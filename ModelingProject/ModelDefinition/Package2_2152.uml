@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+  dslVersion="1.0.0.0"
+  Id="c274e770-5c16-4f75-b9b8-c8c8ed47854a"
+  name="SampleProviders"
+  visibility="Private" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <referencesInternal>
+    <reference
+      Id="77ce66a6-0bc4-41af-81be-3c44e25cffd4"
+      handle="viewcode://./CodeSchema_Namespace?Namespace%3DNAudio.Wave.SampleProviders"
+      tag="ViewCode" />
+  </referencesInternal>
+  <packagedElements>
+    <packageHasNamedElement>
+      <class
+        Id="7159b0f8-95c7-4c2b-bb39-16cd4ddce3fa"
+        name="MixingSampleProvider"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <referencesInternal>
+          <reference
+            Id="82f2bdca-477c-49f2-a369-51d0c88f1e17"
+            handle="viewcode://./CodeSchema_Class?Assembly%3Dfile:%2F%2Frepo%2Fstudenti%24%2Fsirio%2FInformatica%2FDaniele.Franceschini%2FDesktop%2FWFDrumMachine%2FWFDrumMachine%2FNAudio%2FNAudio.dll Namespace%3DNAudio.Wave.SampleProviders Type%3DMixingSampleProvider"
+            tag="ViewCode" />
+        </referencesInternal>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="669da383-819b-42b5-b64d-d18710b05f8c"
+            name="class"
+            profile="CSharpProfile">
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="fd1a310d-3f0c-4699-bd94-6cebe3f76a7f">
+                <propertyInstance
+                  Id="291c51f0-f31e-4c3b-a6c5-e06f658d7acb"
+                  name="ClrAttributes" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="6ff4798f-6558-42bc-abf9-52b43e05c2cb">
+                <propertyInstance
+                  Id="ebb7e2ac-416a-43d1-b9a7-3aec6ee25421"
+                  name="IsPartial"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="94d9ce56-e2ef-49a9-b753-525889fecea1">
+                <propertyInstance
+                  Id="6cd730a2-ce88-462c-a2ae-e9f6c9820103"
+                  name="IsStatic"
+                  value="False" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="609a8812-c805-4e77-a820-83a90212f289">
+                <propertyInstance
+                  Id="a32eaf9d-2fc3-4aa0-bbc7-31fb7126d1cc"
+                  name="IsUnsafe"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="c297d985-d92d-4fbb-a903-43aa6b0345de">
+                <propertyInstance
+                  Id="32289ff3-a8dc-4804-a8c6-52558f5783e2"
+                  name="PackageVisibility"
+                  value="internal" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+        <suppliersInternal>
+          <interfaceRealization
+            Id="a9725d59-1bca-4a12-970b-833b2c502016">
+            <interfaceMoniker
+              Id="b064b212-7de8-458c-9763-e81551609ad5"
+              LastKnownName="ISampleProvider"
+              LastKnownLocation="Package2_2150.uml" />
+          </interfaceRealization>
+        </suppliersInternal>
+      </class>
+    </packageHasNamedElement>
+  </packagedElements>
+</package>

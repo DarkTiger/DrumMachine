@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+  dslVersion="1.0.0.0"
+  Id="2f7ac361-1f2b-4b0e-8de6-ac82de527e2a"
+  name="Wave"
+  visibility="Private" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <referencesInternal>
+    <reference
+      Id="2fc15e8c-47e0-4bbc-b9f6-5ea3667b8f55"
+      handle="viewcode://./CodeSchema_Namespace?Namespace%3DNAudio.Wave"
+      tag="ViewCode" />
+  </referencesInternal>
+  <packagedElements>
+    <packageHasNamedElement>
+      <class
+        Id="72c29db0-46c4-40ea-8cb9-3da236c87c8a"
+        name="AudioFileReader"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <referencesInternal>
+          <reference
+            Id="7b8a8d79-0ab1-4fd4-a1a2-4aaa43f626fe"
+            handle="viewcode://./CodeSchema_Class?Assembly%3Dfile:%2F%2Frepo%2Fstudenti%24%2Fsirio%2FInformatica%2FDaniele.Franceschini%2FDesktop%2FWFDrumMachine%2FWFDrumMachine%2FNAudio%2FNAudio.dll Namespace%3DNAudio.Wave Type%3DAudioFileReader"
+            tag="ViewCode" />
+        </referencesInternal>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="15db37bb-5555-4895-bed0-5402f09a36a9"
+            name="class"
+            profile="CSharpProfile">
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="6dc7cccb-51c8-4d12-bf0a-5ecd8ea2162f">
+                <propertyInstance
+                  Id="2922c58e-5fb6-441d-9f2c-c36fe506103c"
+                  name="ClrAttributes" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="055ce4e9-0ed5-4a39-8636-47a0219b468b">
+                <propertyInstance
+                  Id="4697df27-14cf-40ef-9835-5f72723fcc52"
+                  name="IsPartial"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="2ce89ddf-8c4c-4266-823b-9ce5a7403dbf">
+                <propertyInstance
+                  Id="2a5a5d2f-3d78-4435-8557-6814c85c14ad"
+                  name="IsStatic"
+                  value="False" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="a6d8f4c4-bd0e-427e-a53c-002dc8e3df23">
+                <propertyInstance
+                  Id="0fc44975-9d98-434b-9d87-1b8d150d3093"
+                  name="IsUnsafe"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="227d7637-e568-4b74-84cb-1e5144170dc4">
+                <propertyInstance
+                  Id="9e895290-aaaf-4457-b8f0-7fe6452b52d8"
+                  name="PackageVisibility"
+                  value="internal" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+        <suppliersInternal>
+          <interfaceRealization
+            Id="99db8d62-7127-4623-b990-4d032f49674c">
+            <interfaceMoniker
+              Id="b064b212-7de8-458c-9763-e81551609ad5"
+              LastKnownName="ISampleProvider"
+              LastKnownLocation="Package2_2150.uml" />
+          </interfaceRealization>
+        </suppliersInternal>
+      </class>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <class
+        Id="deb9d752-db75-43cc-96d1-810428d306d7"
+        name="WaveFormat"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <referencesInternal>
+          <reference
+            Id="bca11b95-e588-4df0-ab8e-9d44ce14565b"
+            handle="viewcode://./CodeSchema_Class?Assembly%3Dfile:%2F%2Frepo%2Fstudenti%24%2Fsirio%2FInformatica%2FDaniele.Franceschini%2FDesktop%2FWFDrumMachine%2FWFDrumMachine%2FNAudio%2FNAudio.dll Namespace%3DNAudio.Wave Type%3DWaveFormat"
+            tag="ViewCode" />
+        </referencesInternal>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="538f7242-6bfc-4004-a878-944fe39054dc"
+            name="class"
+            profile="CSharpProfile">
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="f68c267f-3ef2-4be8-a11c-2a85fb900a77">
+                <propertyInstance
+                  Id="c186cfb0-f315-4fb9-807d-9282a9512ed1"
+                  name="ClrAttributes" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="bcb882c3-c90c-41e8-8712-cc4da61346d8">
+                <propertyInstance
+                  Id="19663f01-e220-4b05-8374-8b9c30f0b4b1"
+                  name="IsPartial"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="79e18532-20e7-4a7d-9e55-c9ca6ddcf3a5">
+                <propertyInstance
+                  Id="dd674700-0b9d-48a0-94ee-0cb681e46b89"
+                  name="IsStatic"
+                  value="False" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="cab9a920-95b6-4d1d-a2d0-a41c044dd01c">
+                <propertyInstance
+                  Id="f1b50990-6cbb-4af8-bafd-fad0e9ebbf26"
+                  name="IsUnsafe"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="289981f4-fa0c-4247-b588-6723bb1c0a3d">
+                <propertyInstance
+                  Id="ef9dcd18-0bd8-464a-8961-d317658d8c32"
+                  name="PackageVisibility"
+                  value="internal" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+      </class>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <Interface
+        Id="b064b212-7de8-458c-9763-e81551609ad5"
+        name="ISampleProvider"
+        isAbstract="false"
+        isLeaf="false">
+        <referencesInternal>
+          <reference
+            Id="2954f623-5076-4e9b-8de8-56b5aec56722"
+            handle="viewcode://./CodeSchema_Interface?Assembly%3Dfile:%2F%2Frepo%2Fstudenti%24%2Fsirio%2FInformatica%2FDaniele.Franceschini%2FDesktop%2FWFDrumMachine%2FWFDrumMachine%2FNAudio%2FNAudio.dll Namespace%3DNAudio.Wave Type%3DISampleProvider"
+            tag="ViewCode" />
+        </referencesInternal>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="4388a1d3-b011-4d48-9a64-818766779473"
+            name="interface"
+            profile="CSharpProfile">
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="2c13d4d5-0ce4-42ee-9598-e49f2e68b901">
+                <propertyInstance
+                  Id="b7184a9d-88a3-4aed-9109-cabc80594a2b"
+                  name="ClrAttributes" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="1aadb603-20d1-4d3e-be91-09cd485e906e">
+                <propertyInstance
+                  Id="dfb51bab-80e2-480f-bc26-560aebcd0c40"
+                  name="IsPartial"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="fe1c29e2-b428-4744-bcad-d96b9cbb7936">
+                <propertyInstance
+                  Id="458d8782-8e22-4e10-95ea-f17b086c9b97"
+                  name="IsUnsafe"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="24a1a5c7-f89b-4ec5-aad1-701070f74b38">
+                <propertyInstance
+                  Id="5497f9d3-9ea6-45d9-aa85-8695cc2fb9d3"
+                  name="PackageVisibility"
+                  value="internal" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+      </Interface>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <Interface
+        Id="8cfb5024-05c8-4a14-a31e-dd2f21641594"
+        name="IWavePlayer"
+        isAbstract="false"
+        isLeaf="false">
+        <referencesInternal>
+          <reference
+            Id="ff52ab14-a3dc-4198-9e39-ede0aee88ace"
+            handle="viewcode://./CodeSchema_Interface?Assembly%3Dfile:%2F%2Frepo%2Fstudenti%24%2Fsirio%2FInformatica%2FDaniele.Franceschini%2FDesktop%2FWFDrumMachine%2FWFDrumMachine%2FNAudio%2FNAudio.dll Namespace%3DNAudio.Wave Type%3DIWavePlayer"
+            tag="ViewCode" />
+        </referencesInternal>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="038c30e8-40c6-4744-a76b-b8c35624ae9e"
+            name="interface"
+            profile="CSharpProfile">
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="f2773f0e-aa3f-4efe-95d2-3b5584fb1df3">
+                <propertyInstance
+                  Id="56830d18-14b7-4a89-a1c2-f261d47c276d"
+                  name="ClrAttributes" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="0ac86dee-55a4-4b7c-8ef7-1ec80480d664">
+                <propertyInstance
+                  Id="9d8d7814-0dbb-48bf-87c0-07e6d08227d1"
+                  name="IsPartial"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="7f87b756-c7d9-485b-990b-443357f0bb17">
+                <propertyInstance
+                  Id="3a13dd83-804e-4fb4-a400-38022cbcbe33"
+                  name="IsUnsafe"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="f15ab69b-60c2-4423-987d-1af4e372dd45">
+                <propertyInstance
+                  Id="71ae3ec9-952c-4b97-b554-1620317b5498"
+                  name="PackageVisibility"
+                  value="internal" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+        <generalsInternal>
+          <generalization
+            Id="ea701990-0ebb-4e24-9d01-1ecbcf912ecd"
+            isSubstitutable="false">
+            <interfaceMoniker
+              Id="3d875651-9b6d-4605-adad-d3b7ad6ab053"
+              LastKnownName="IDisposable"
+              LastKnownLocation="Package3_2150.uml" />
+          </generalization>
+        </generalsInternal>
+      </Interface>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="c274e770-5c16-4f75-b9b8-c8c8ed47854a"
+        LastKnownName="SampleProviders"
+        LastKnownLocation="Package2_2152.uml" />
+    </packageHasNamedElement>
+  </packagedElements>
+</package>

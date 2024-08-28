@@ -1,0 +1,77 @@
+c:\users\daniele\documents\visual studio 2013\Projects\WFDrumMachine\WFDrumMachine\bin\Debug\WFDrumMachine.exe.config
+c:\users\daniele\documents\visual studio 2013\Projects\WFDrumMachine\WFDrumMachine\bin\Debug\WFDrumMachine.exe
+c:\users\daniele\documents\visual studio 2013\Projects\WFDrumMachine\WFDrumMachine\bin\Debug\WFDrumMachine.pdb
+c:\users\daniele\documents\visual studio 2013\Projects\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.csprojResolveAssemblyReference.cache
+c:\users\daniele\documents\visual studio 2013\Projects\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.Form1.resources
+c:\users\daniele\documents\visual studio 2013\Projects\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.Properties.Resources.resources
+c:\users\daniele\documents\visual studio 2013\Projects\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.csproj.GenerateResource.Cache
+c:\users\daniele\documents\visual studio 2013\Projects\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.exe
+c:\users\daniele\documents\visual studio 2013\Projects\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.pdb
+C:\Users\franceschini\Documents\Visual Studio 2013\Visualizers\WFDrumMachine\WFDrumMachine\bin\Debug\WFDrumMachine.exe.config
+C:\Users\franceschini\Documents\Visual Studio 2013\Visualizers\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.exe
+C:\Users\franceschini\Documents\Visual Studio 2013\Visualizers\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.pdb
+C:\Users\franceschini\Documents\Visual Studio 2013\Visualizers\WFDrumMachine\WFDrumMachine\bin\Debug\WFDrumMachine.exe
+C:\Users\franceschini\Documents\Visual Studio 2013\Visualizers\WFDrumMachine\WFDrumMachine\bin\Debug\WFDrumMachine.pdb
+C:\Users\franceschini\Documents\Visual Studio 2013\Visualizers\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.csprojResolveAssemblyReference.cache
+C:\Users\franceschini\Documents\Visual Studio 2013\Visualizers\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.Properties.Resources.resources
+C:\Users\franceschini\Documents\Visual Studio 2013\Visualizers\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.csproj.GenerateResource.Cache
+C:\Users\franceschini\Documents\Visual Studio 2013\Visualizers\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.frmMain.resources
+C:\Users\franceschini\Documents\Visual Studio 2013\Visualizers\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.frmSettings.resources
+G:\WFDrumMachine\WFDrumMachine\bin\Debug\WFDrumMachine.exe.config
+G:\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.exe
+G:\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.pdb
+G:\WFDrumMachine\WFDrumMachine\bin\Debug\WFDrumMachine.exe
+G:\WFDrumMachine\WFDrumMachine\bin\Debug\WFDrumMachine.pdb
+G:\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.csprojResolveAssemblyReference.cache
+G:\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.frmMain.resources
+G:\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.frmSettings.resources
+G:\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.Properties.Resources.resources
+G:\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.csproj.GenerateResource.Cache
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\WFDrumMachine\WFDrumMachine\bin\Debug\WFDrumMachine.exe.config
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.exe
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.pdb
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.csprojResolveAssemblyReference.cache
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.frmMain.resources
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.frmSettings.resources
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.Properties.Resources.resources
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.csproj.GenerateResource.Cache
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\WFDrumMachine\WFDrumMachine\bin\Debug\WFDrumMachine.exe
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\WFDrumMachine\WFDrumMachine\bin\Debug\WFDrumMachine.pdb
+C:\Users\Daniele\Desktop\WFDrumMachine\WFDrumMachine\bin\Debug\WFDrumMachine.exe.config
+C:\Users\Daniele\Desktop\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.exe
+C:\Users\Daniele\Desktop\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.pdb
+C:\Users\Daniele\Desktop\WFDrumMachine\WFDrumMachine\bin\Debug\WFDrumMachine.exe
+C:\Users\Daniele\Desktop\WFDrumMachine\WFDrumMachine\bin\Debug\WFDrumMachine.pdb
+C:\Users\Daniele\Desktop\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.frmMain.resources
+C:\Users\Daniele\Desktop\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.frmSettings.resources
+C:\Users\Daniele\Desktop\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.Properties.Resources.resources
+C:\Users\Daniele\Desktop\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.csproj.GenerateResource.Cache
+C:\Users\Daniele\Desktop\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.csprojResolveAssemblyReference.cache
+C:\Users\Daniele\Desktop\WFDrumMachine\WFDrumMachine\obj\Debug\Interop.WMPLib.dll
+C:\Users\Daniele\Desktop\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.csproj.ResolveComReference.cache
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\WFDrumMachine\WFDrumMachine\obj\Debug\Interop.WMPLib.dll
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.csproj.ResolveComReference.cache
+G:\WFDrumMachine\WFDrumMachine\obj\Debug\Interop.WMPLib.dll
+G:\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.csproj.ResolveComReference.cache
+C:\Users\Daniele\Desktop\WFDrumMachine\WFDrumMachine\bin\Debug\NAudio.dll
+C:\Users\Daniele\Desktop\WFDrumMachine\WFDrumMachine\bin\Debug\NAudio.WindowsMediaFormat.dll
+C:\Users\Daniele\Desktop\WFDrumMachine\WFDrumMachine\bin\Debug\NAudio.xml
+C:\Users\franceschini\Documents\Visual Studio 2013\Visualizers\attrib\WFDrumMachine\WFDrumMachine\bin\Debug\WFDrumMachine.exe.config
+C:\Users\franceschini\Documents\Visual Studio 2013\Visualizers\attrib\WFDrumMachine\WFDrumMachine\obj\Debug\Interop.WMPLib.dll
+C:\Users\franceschini\Documents\Visual Studio 2013\Visualizers\attrib\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.csproj.ResolveComReference.cache
+C:\Users\franceschini\Documents\Visual Studio 2013\Visualizers\attrib\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.exe
+C:\Users\franceschini\Documents\Visual Studio 2013\Visualizers\attrib\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.pdb
+C:\Users\franceschini\Documents\Visual Studio 2013\Visualizers\attrib\WFDrumMachine\WFDrumMachine\bin\Debug\WFDrumMachine.exe
+C:\Users\franceschini\Documents\Visual Studio 2013\Visualizers\attrib\WFDrumMachine\WFDrumMachine\bin\Debug\WFDrumMachine.pdb
+C:\Users\franceschini\Documents\Visual Studio 2013\Visualizers\attrib\WFDrumMachine\WFDrumMachine\bin\Debug\NAudio.xml
+C:\Users\franceschini\Documents\Visual Studio 2013\Visualizers\attrib\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.csprojResolveAssemblyReference.cache
+C:\Users\franceschini\Documents\Visual Studio 2013\Visualizers\attrib\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.frmMain.resources
+C:\Users\franceschini\Documents\Visual Studio 2013\Visualizers\attrib\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.frmSettings.resources
+C:\Users\franceschini\Documents\Visual Studio 2013\Visualizers\attrib\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.Properties.Resources.resources
+C:\Users\franceschini\Documents\Visual Studio 2013\Visualizers\attrib\WFDrumMachine\WFDrumMachine\obj\Debug\WFDrumMachine.csproj.GenerateResource.Cache
+C:\Users\franceschini\Documents\Visual Studio 2013\Visualizers\attrib\WFDrumMachine\WFDrumMachine\bin\Debug\FMODNet.pdb
+C:\Users\franceschini\Documents\Visual Studio 2013\Visualizers\attrib\WFDrumMachine\WFDrumMachine\bin\Debug\FMODNet.xml
+G:\WFDrumMachine2\WFDrumMachine\bin\Debug\WFDrumMachine.exe.config
+G:\WFDrumMachine2\WFDrumMachine\obj\Debug\Interop.WMPLib.dll
+G:\WFDrumMachine2\WFDrumMachine\obj\Debug\WFDrumMachine.csproj.ResolveComReference.cache
+G:\WFDrumMachine2\WFDrumMachine\obj\Debug\WFDrumMachine.exe

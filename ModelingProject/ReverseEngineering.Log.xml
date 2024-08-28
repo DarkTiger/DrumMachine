@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 12.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/ReverseEngineeringLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Log generazione codice/trasformazione testo">
+  <MessageClass Name="Message" Label="Messaggio" Option="Mostra messaggi informativi" />
+  <MessageClass Name="Warning" Label="Avviso" Option="Mostra avvisi" />
+  <MessageClass Name="Error" Label="Errore" Option="Mostra errori" />
+  <MessageClass Name="Property" Label="Proprietà" Option="Mostra metadati" />
+  <MessageClass Name="Diagnostic" Label="Messaggio" Option="Mostra messaggi di diagnostica" />
+  <Message Timestamp="2015-01-26T21:52:47" Importance="High" Text="Decompilazione avviata." />
+  <Message Timestamp="2015-01-26T21:52:49" Importance="Diagnostic" Text="Elemento decompilato nel modello UML: 'Integer' - (PrimitiveType)" />
+  <Message Timestamp="2015-01-26T21:52:49" Importance="Diagnostic" Text="Elemento decompilato nel modello UML: 'ModelingProject::NAudio' - (Package)" />
+  <Message Timestamp="2015-01-26T21:52:49" Importance="Diagnostic" Text="Elemento decompilato nel modello UML: 'ModelingProject::NAudio::Wave' - (Package)" />
+  <Message Timestamp="2015-01-26T21:52:49" Importance="Diagnostic" Text="Elemento decompilato nel modello UML: 'ModelingProject::NAudio::Wave::ISampleProvider' - (Interface) (parzialmente decompilato, definizione non aggiornata) " />
+  <Message Timestamp="2015-01-26T21:52:49" Importance="Diagnostic" Text="Elemento decompilato nel modello UML: 'ModelingProject::NAudio::Wave::IWavePlayer' - (Interface) (parzialmente decompilato, definizione non aggiornata) " />
+  <Message Timestamp="2015-01-26T21:52:49" Importance="Diagnostic" Text="Elemento decompilato nel modello UML: 'ModelingProject::NAudio::Wave::SampleProviders' - (Package)" />
+  <Message Timestamp="2015-01-26T21:52:49" Importance="Diagnostic" Text="Elemento decompilato nel modello UML: 'ModelingProject::NAudio::Wave::SampleProviders::MixingSampleProvider' - (Class) (parzialmente decompilato, definizione non aggiornata) " />
+  <Message Timestamp="2015-01-26T21:52:49" Importance="Diagnostic" Text="Elemento decompilato nel modello UML: 'ModelingProject::System' - (Package)" />
+  <Message Timestamp="2015-01-26T21:52:49" Importance="Diagnostic" Text="Elemento decompilato nel modello UML: 'ModelingProject::System::IDisposable' - (Interface) (parzialmente decompilato, definizione non aggiornata) " />
+  <Message Timestamp="2015-01-26T21:52:49" Importance="Diagnostic" Text="Elemento decompilato nel modello UML: 'ModelingProject::WFDrumMachine' - (Package)" />
+  <Message Timestamp="2015-01-26T21:52:49" Importance="Diagnostic" Text="Elemento decompilato nel modello UML: 'ModelingProject::WFDrumMachine::CachedSound' - (Class) (parzialmente decompilato, definizione non aggiornata) " />
+  <Message Timestamp="2015-01-26T21:52:49" Importance="Medium" Text="Elemento decompilato nel modello UML: 'ModelingProject::WFDrumMachine::SoundEngine' - (Class)" />
+  <Message Timestamp="2015-01-26T21:52:49" Importance="Diagnostic" Text="Elemento decompilato nel modello UML: 'ModelingProject::WFDrumMachine::SoundEngine::AddMixerInput' - (Operation)" />
+  <Message Timestamp="2015-01-26T21:52:49" Importance="Diagnostic" Text="Elemento decompilato nel modello UML: 'ModelingProject::WFDrumMachine::SoundEngine::AddMixerInput::input' - (Parameter)" />
+  <Message Timestamp="2015-01-26T21:52:49" Importance="Diagnostic" Text="Elemento decompilato nel modello UML: 'ModelingProject::WFDrumMachine::SoundEngine::ConvertToRightChannelCount' - (Operation)" />
+  <Message Timestamp="2015-01-26T21:52:49" Importance="Diagnostic" Text="Elemento decompilato nel modello UML: 'ModelingProject::WFDrumMachine::SoundEngine::ConvertToRightChannelCount::input' - (Parameter)" />
+  <Message Timestamp="2015-01-26T21:52:49" Importance="Diagnostic" Text="Elemento decompilato nel modello UML: 'ModelingProject::WFDrumMachine::SoundEngine::Dispose' - (Operation)" />
+  <Message Timestamp="2015-01-26T21:52:49" Importance="Diagnostic" Text="Elemento decompilato nel modello UML: 'ModelingProject::WFDrumMachine::SoundEngine::Instance' - (Property)" />
+  <Message Timestamp="2015-01-26T21:52:49" Importance="Diagnostic" Text="Elemento decompilato nel modello UML: 'ModelingProject::WFDrumMachine::SoundEngine::mixer' - (Property)" />
+  <Message Timestamp="2015-01-26T21:52:49" Importance="Diagnostic" Text="Elemento decompilato nel modello UML: 'ModelingProject::WFDrumMachine::SoundEngine::outputDevice' - (Property)" />
+  <Message Timestamp="2015-01-26T21:52:49" Importance="Diagnostic" Text="Elemento decompilato nel modello UML: 'ModelingProject::WFDrumMachine::SoundEngine::PlaySound' - (Operation)" />
+  <Message Timestamp="2015-01-26T21:52:49" Importance="Diagnostic" Text="Elemento decompilato nel modello UML: 'ModelingProject::WFDrumMachine::SoundEngine::PlaySound::fileName' - (Parameter)" />
+  <Message Timestamp="2015-01-26T21:52:49" Importance="Diagnostic" Text="Elemento decompilato nel modello UML: 'ModelingProject::WFDrumMachine::SoundEngine::PlaySound::sound' - (Parameter)" />
+  <Message Timestamp="2015-01-26T21:52:49" Importance="Diagnostic" Text="Elemento decompilato nel modello UML: 'ModelingProject::WFDrumMachine::SoundEngine::SoundEngine' - (Operation)" />
+  <Message Timestamp="2015-01-26T21:52:49" Importance="Diagnostic" Text="Elemento decompilato nel modello UML: 'ModelingProject::WFDrumMachine::SoundEngine::SoundEngine::channelCount' - (Parameter)" />
+  <Message Timestamp="2015-01-26T21:52:49" Importance="Diagnostic" Text="Elemento decompilato nel modello UML: 'ModelingProject::WFDrumMachine::SoundEngine::SoundEngine::sampleRate' - (Parameter)" />
+  <Message Timestamp="2015-01-26T21:52:49" Importance="Diagnostic" Text="Elemento decompilato nel modello UML: 'ModelingProject::WFDrumMachine::SoundEngine::StopSound' - (Operation)" />
+  <Message Timestamp="2015-01-26T21:52:49" Importance="Diagnostic" Text="Elemento decompilato nel modello UML: 'String' - (PrimitiveType)" />
+  <Message Timestamp="2015-01-26T21:52:49" Importance="Diagnostic" Text="Relazione decompilata nel modello UML: da ModelingProject::WFDrumMachine::SoundEngine a ModelingProject::System::IDisposable (InterfaceRealization)" />
+  <Message Timestamp="2015-01-26T21:52:49" Importance="Diagnostic" Text="Relazione decompilata nel modello UML: da ModelingProject::NAudio::Wave::IWavePlayer a ModelingProject::System::IDisposable (Generalization)" />
+  <Message Timestamp="2015-01-26T21:52:49" Importance="Diagnostic" Text="Relazione decompilata nel modello UML: da ModelingProject::NAudio::Wave::SampleProviders::MixingSampleProvider a ModelingProject::NAudio::Wave::ISampleProvider (InterfaceRealization)" />
+  <Message Timestamp="2015-01-26T21:52:49" Importance="High" Text="(1) tipi completamente decompilati." />
+  <Message Timestamp="2015-01-26T21:52:49" Importance="High" Text="(5) tipi parzialmente decompilati. Questi tipi non sono inclusi nella selezione originale, pertanto le relative selezioni non sono state decompilate. Questa operazione superficiale ha invece semplicemente garantito che questi tipi esistano nel modello UML poiché sono necessari per descrivere altri elementi." />
+  <Message Timestamp="2015-01-26T21:52:49" Importance="High" Text="Operazione di decompilazione avviata con (0) errori e (0) avvisi." />
+</Log>

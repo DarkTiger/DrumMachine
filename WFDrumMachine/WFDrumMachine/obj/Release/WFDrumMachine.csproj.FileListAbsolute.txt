@@ -1,0 +1,103 @@
+G:\WFDrumMachine2\WFDrumMachine\bin\Release\WFDrumMachine.exe.config
+G:\WFDrumMachine2\WFDrumMachine\obj\Release\WFDrumMachine.csprojResolveAssemblyReference.cache
+G:\WFDrumMachine2\WFDrumMachine\obj\Release\WFDrumMachine.frmMain.resources
+G:\WFDrumMachine2\WFDrumMachine\obj\Release\WFDrumMachine.frmSettings.resources
+G:\WFDrumMachine2\WFDrumMachine\obj\Release\WFDrumMachine.Properties.Resources.resources
+G:\WFDrumMachine2\WFDrumMachine\obj\Release\WFDrumMachine.csproj.GenerateResource.Cache
+G:\WFDrumMachine2\WFDrumMachine\bin\Release\WFDrumMachine.exe
+G:\WFDrumMachine2\WFDrumMachine\bin\Release\WFDrumMachine.pdb
+G:\WFDrumMachine2\WFDrumMachine\bin\Release\NAudio.dll
+G:\WFDrumMachine2\WFDrumMachine\bin\Release\NAudio.WindowsMediaFormat.dll
+G:\WFDrumMachine2\WFDrumMachine\bin\Release\NAudio.xml
+G:\WFDrumMachine2\WFDrumMachine\obj\Release\WFDrumMachine.exe
+G:\WFDrumMachine2\WFDrumMachine\obj\Release\WFDrumMachine.pdb
+C:\Users\Daniele\Desktop\WFDrumMachine2\WFDrumMachine\bin\Release\WFDrumMachine.exe.config
+C:\Users\Daniele\Desktop\WFDrumMachine2\WFDrumMachine\obj\Release\WFDrumMachine.exe
+C:\Users\Daniele\Desktop\WFDrumMachine2\WFDrumMachine\obj\Release\WFDrumMachine.pdb
+C:\Users\Daniele\Desktop\WFDrumMachine2\WFDrumMachine\bin\Release\WFDrumMachine.exe
+C:\Users\Daniele\Desktop\WFDrumMachine2\WFDrumMachine\bin\Release\WFDrumMachine.pdb
+C:\Users\Daniele\Desktop\WFDrumMachine2\WFDrumMachine\bin\Release\NAudio.xml
+C:\Users\Daniele\Desktop\WFDrumMachine2\WFDrumMachine\obj\Release\WFDrumMachine.csprojResolveAssemblyReference.cache
+C:\Users\Daniele\Desktop\WFDrumMachine2\WFDrumMachine\obj\Release\WFDrumMachine.frmMain.resources
+C:\Users\Daniele\Desktop\WFDrumMachine2\WFDrumMachine\obj\Release\WFDrumMachine.frmSettings.resources
+C:\Users\Daniele\Desktop\WFDrumMachine2\WFDrumMachine\obj\Release\WFDrumMachine.Properties.Resources.resources
+C:\Users\Daniele\Desktop\WFDrumMachine2\WFDrumMachine\obj\Release\WFDrumMachine.csproj.GenerateResource.Cache
+C:\Users\Daniele\Desktop\WFDrumMachine2\WFDrumMachine\bin\Release\NAudio.dll
+C:\Users\Daniele\Desktop\WFDrumMachine2\WFDrumMachine\bin\Release\NAudio.WindowsMediaFormat.dll
+C:\Users\Daniele\Desktop\WFDrumMachine\WFDrumMachine\bin\Release\WFDrumMachine.exe.config
+C:\Users\Daniele\Desktop\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.exe
+C:\Users\Daniele\Desktop\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.pdb
+C:\Users\Daniele\Desktop\WFDrumMachine\WFDrumMachine\bin\Release\WFDrumMachine.exe
+C:\Users\Daniele\Desktop\WFDrumMachine\WFDrumMachine\bin\Release\WFDrumMachine.pdb
+C:\Users\Daniele\Desktop\WFDrumMachine\WFDrumMachine\bin\Release\NAudio.dll
+C:\Users\Daniele\Desktop\WFDrumMachine\WFDrumMachine\bin\Release\NAudio.WindowsMediaFormat.dll
+C:\Users\Daniele\Desktop\WFDrumMachine\WFDrumMachine\bin\Release\NAudio.xml
+C:\Users\Daniele\Desktop\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.csprojResolveAssemblyReference.cache
+C:\Users\Daniele\Desktop\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.frmMain.resources
+C:\Users\Daniele\Desktop\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.frmSettings.resources
+C:\Users\Daniele\Desktop\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.Properties.Resources.resources
+C:\Users\Daniele\Desktop\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.csproj.GenerateResource.Cache
+C:\Users\daniele.franceschini\Desktop\WFDrumMachine\WFDrumMachine\bin\Release\WFDrumMachine.exe.config
+C:\Users\daniele.franceschini\Desktop\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.exe
+C:\Users\daniele.franceschini\Desktop\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.pdb
+C:\Users\daniele.franceschini\Desktop\WFDrumMachine\WFDrumMachine\bin\Release\WFDrumMachine.exe
+C:\Users\daniele.franceschini\Desktop\WFDrumMachine\WFDrumMachine\bin\Release\WFDrumMachine.pdb
+C:\Users\daniele.franceschini\Desktop\WFDrumMachine\WFDrumMachine\bin\Release\NAudio.dll
+C:\Users\daniele.franceschini\Desktop\WFDrumMachine\WFDrumMachine\bin\Release\NAudio.WindowsMediaFormat.dll
+C:\Users\daniele.franceschini\Desktop\WFDrumMachine\WFDrumMachine\bin\Release\NAudio.xml
+C:\Users\daniele.franceschini\Desktop\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.csprojResolveAssemblyReference.cache
+C:\Users\daniele.franceschini\Desktop\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.frmMain.resources
+C:\Users\daniele.franceschini\Desktop\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.frmSettings.resources
+C:\Users\daniele.franceschini\Desktop\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.Properties.Resources.resources
+C:\Users\daniele.franceschini\Desktop\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.csproj.GenerateResource.Cache
+C:\Users\franceschini\Desktop\WFDrumMachine\WFDrumMachine\bin\Release\WFDrumMachine.exe.config
+C:\Users\franceschini\Desktop\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.exe
+C:\Users\franceschini\Desktop\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.pdb
+C:\Users\franceschini\Desktop\WFDrumMachine\WFDrumMachine\bin\Release\WFDrumMachine.exe
+C:\Users\franceschini\Desktop\WFDrumMachine\WFDrumMachine\bin\Release\WFDrumMachine.pdb
+C:\Users\franceschini\Desktop\WFDrumMachine\WFDrumMachine\bin\Release\NAudio.dll
+C:\Users\franceschini\Desktop\WFDrumMachine\WFDrumMachine\bin\Release\NAudio.WindowsMediaFormat.dll
+C:\Users\franceschini\Desktop\WFDrumMachine\WFDrumMachine\bin\Release\NAudio.xml
+C:\Users\franceschini\Desktop\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.csprojResolveAssemblyReference.cache
+C:\Users\franceschini\Desktop\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.frmMain.resources
+C:\Users\franceschini\Desktop\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.frmSettings.resources
+C:\Users\franceschini\Desktop\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.Properties.Resources.resources
+C:\Users\franceschini\Desktop\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.csproj.GenerateResource.Cache
+L:\WFDrumMachine\WFDrumMachine\bin\Release\WFDrumMachine.exe.config
+L:\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.exe
+L:\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.pdb
+L:\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.csprojResolveAssemblyReference.cache
+L:\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.frmMain.resources
+L:\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.frmSettings.resources
+L:\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.Properties.Resources.resources
+L:\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.csproj.GenerateResource.Cache
+L:\WFDrumMachine\WFDrumMachine\bin\Release\WFDrumMachine.exe
+L:\WFDrumMachine\WFDrumMachine\bin\Release\WFDrumMachine.pdb
+L:\WFDrumMachine\WFDrumMachine\bin\Release\NAudio.dll
+L:\WFDrumMachine\WFDrumMachine\bin\Release\NAudio.WindowsMediaFormat.dll
+L:\WFDrumMachine\WFDrumMachine\bin\Release\NAudio.xml
+C:\Users\franceschini\Documents\Visual Studio 2013\ArchitectureExplorer\WFDrumMachine\WFDrumMachine\bin\Release\WFDrumMachine.exe.config
+C:\Users\franceschini\Documents\Visual Studio 2013\ArchitectureExplorer\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.exe
+C:\Users\franceschini\Documents\Visual Studio 2013\ArchitectureExplorer\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.pdb
+C:\Users\franceschini\Documents\Visual Studio 2013\ArchitectureExplorer\WFDrumMachine\WFDrumMachine\bin\Release\WFDrumMachine.exe
+C:\Users\franceschini\Documents\Visual Studio 2013\ArchitectureExplorer\WFDrumMachine\WFDrumMachine\bin\Release\WFDrumMachine.pdb
+C:\Users\franceschini\Documents\Visual Studio 2013\ArchitectureExplorer\WFDrumMachine\WFDrumMachine\bin\Release\NAudio.dll
+C:\Users\franceschini\Documents\Visual Studio 2013\ArchitectureExplorer\WFDrumMachine\WFDrumMachine\bin\Release\NAudio.WindowsMediaFormat.dll
+C:\Users\franceschini\Documents\Visual Studio 2013\ArchitectureExplorer\WFDrumMachine\WFDrumMachine\bin\Release\NAudio.xml
+C:\Users\franceschini\Documents\Visual Studio 2013\ArchitectureExplorer\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.csprojResolveAssemblyReference.cache
+C:\Users\franceschini\Documents\Visual Studio 2013\ArchitectureExplorer\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.frmMain.resources
+C:\Users\franceschini\Documents\Visual Studio 2013\ArchitectureExplorer\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.frmSettings.resources
+C:\Users\franceschini\Documents\Visual Studio 2013\ArchitectureExplorer\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.Properties.Resources.resources
+C:\Users\franceschini\Documents\Visual Studio 2013\ArchitectureExplorer\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.csproj.GenerateResource.Cache
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\WFDrumMachine\WFDrumMachine\bin\Release\WFDrumMachine.exe.config
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\WFDrumMachine\WFDrumMachine\bin\Release\WFDrumMachine.exe
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\WFDrumMachine\WFDrumMachine\bin\Release\WFDrumMachine.pdb
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\WFDrumMachine\WFDrumMachine\bin\Release\NAudio.dll
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\WFDrumMachine\WFDrumMachine\bin\Release\NAudio.WindowsMediaFormat.dll
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\WFDrumMachine\WFDrumMachine\bin\Release\NAudio.xml
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.frmMain.resources
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.frmSettings.resources
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.Properties.Resources.resources
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.csproj.GenerateResource.Cache
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.exe
+\\repo\studenti$\sirio\Informatica\Daniele.Franceschini\Desktop\WFDrumMachine\WFDrumMachine\obj\Release\WFDrumMachine.pdb
